@@ -1,0 +1,12 @@
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\bin\Debug\ReplaceColour.exe.config
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.Properties.Resources.resources
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.csproj.GenerateResource.Cache
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\bin\Debug\ReplaceColour.exe
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\bin\Debug\ReplaceColour.pdb
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.exe
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.pdb
+C:\Users\Emil\Documents\Visual Studio 2012\Projects\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.dlgReplaceColour.resources
+C:\Users\Emil\Documents\skylt direkt\kontorsskyltar\bildmanipulation\ReplaceColour\ReplaceColour\bin\Debug\ReplaceColour.exe.config
+C:\Users\Emil\Documents\skylt direkt\kontorsskyltar\bildmanipulation\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.exe
+C:\Users\Emil\Documents\skylt direkt\kontorsskyltar\bildmanipulation\ReplaceColour\ReplaceColour\obj\Debug\ReplaceColour.pdb
